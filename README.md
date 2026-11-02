@@ -28,7 +28,7 @@ uv run jupyter lab   # start JupyterLab
 
 | Notebook | Content |
 |---|---|
-| `notebooks/01_zarr_for_netcdf_users.ipynb` | Zarr for C3S/CCI users: store layout, metadata, reading only the chunks you need, parallel write/read vs netCDF, chunking |
+| `notebooks/zarr_demo_noteook.ipynb` | Zarr for C3S/CCI users: store layout, metadata, reading only the chunks you need, parallel write/read vs netCDF, chunking |
 
 The demo data is the C3S/CCI Satellite Soil Moisture COMBINED product (daily, 1978–2025, 0.25° global, Zarr v3),
 streamed over HTTPS from EODC.
